@@ -172,7 +172,7 @@ Lists all files and directories including hidden ones.
 .
 :
 ## Output
-.
+```
 ├── activity1_2.md
 ├── activity.sh
 ├── .bash_logout
@@ -193,6 +193,7 @@ Lists all files and directories including hidden ones.
 ├── .profile
 :
 ├── Public
+```
 ## Remarks
 Good for seeing hidden directory structures. (Showing first 20 lines for brevity)
 
